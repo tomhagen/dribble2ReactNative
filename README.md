@@ -1,4 +1,4 @@
-# dribble2ReactNative
+# ReactNative Pet Project 2020
 
 **I'm transforming Dribbble designs to React / React-Native code. Happy Coding :)**
 <hr/>
