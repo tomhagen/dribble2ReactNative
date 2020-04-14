@@ -8,7 +8,8 @@
 | ------ | ------ | :------: | :------: | 
 | 01 | Travel App | Travel article news with main & details UI view | 100% :white_check_mark: |
 | 02 | Parking App | Car parking finder app with price calculator | 90% :hammer_and_wrench: |
-| 03 || *To be continued :)* ||
+| 03 | VPN App | Vitural Private Network app with select country | 100% :white_check_mark: |
+| 04 || *To be continued :)* ||
 
 ## Project 1: Travel Article App UI	View Snack	✅
 
@@ -27,7 +28,7 @@
 2. Animated dots progress/stepper ( horizontal in Flatlist ) 
 3. Rating star 
 
-### Package using: 
+### Dependencies: 
     "@react-native-community/masked-view": "^0.1.7",
     "@react-navigation/native": "^5.1.4",
     "@react-navigation/stack": "^5.2.9",
@@ -61,7 +62,7 @@
 - React Native FlatList, React Native ScrollView , 
 - React Native Modal
 
-### Package using: 
+### Dependencies: 
     "react-native-dropdown": "0.0.6",
     "react-native-maps": "^0.27.1",     // for testing
     "react-native-material-dropdown": "^0.11.1",     // for testing
@@ -75,5 +76,43 @@
 ### Unfinished Task: 
 - Using React-Native-dropdown for render hours
 - Calculating the price and render the same hours ( with main view ) in modal view 
+
+<hr/>
+</br>
+
+## Project 3: VPN App	✅
+
+![Screenshot](vpnApp.png)
+
+### Design sketch link [here](https://camo.githubusercontent.com/a2b9a05f6c2977425df30ead06e36f5748a2fea4/68747470733a2f2f70726f6a6563743336352e64657369676e2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f30353130323031382d64657369676e2e706e67)
+
+### Demo design:
+![Screenshot](vpnAppDesign.png)
+
+### UI View:  2
+
+### Coding time: 8 hours.
+### Description:
+- React Native Navigation
+- React Native ScrollView , 
+- React Native Modal
+- React Native vector icon
+- Using state to turn on/off connected status and picker country
+
+### Dependencies: 
+   "@react-native-community/masked-view": "^0.1.8",
+    "@react-navigation/native": "^5.1.5",
+    "@react-navigation/stack": "^5.2.10",
+    "react": "16.11.0",
+    "react-native": "0.62.2",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-modal": "^11.5.6",
+    "react-native-reanimated": "^1.8.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.4.0",
+    "react-native-vector-icons": "^6.6.0"
+
+### Issue & Resolve: Check it [here](https://github.com/tomhagen/dribble2ReactNative/issues)
+
 
 <hr/>
