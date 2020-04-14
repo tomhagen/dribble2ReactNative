@@ -82,7 +82,7 @@
 
 ## Project 3: VPN App	✅
 
-![Screenshot](vpnApp.png)
+![Screenshot](vpnApp.gif)
 
 ### Design sketch link [here](https://camo.githubusercontent.com/a2b9a05f6c2977425df30ead06e36f5748a2fea4/68747470733a2f2f70726f6a6563743336352e64657369676e2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f30353130323031382d64657369676e2e706e67)
 
