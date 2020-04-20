@@ -1,3 +1,4 @@
+##### Especially thanks to [React-UI-Kit](https://www.youtube.com/channel/UCfREdW8U8p9AHDZwau3lapw/about) Channel !
 # ReactNative Project 2020
 
 **I'm transforming Dribbble designs to React / React-Native code. Happy Coding :)**
@@ -9,7 +10,8 @@
 | 01 | Travel App | Travel article news with main & details UI view | 100% :white_check_mark: |
 | 02 | Parking App | Car parking finder app with price calculator | 90% :hammer_and_wrench: |
 | 03 | VPN App | Vitural Private Network app with select country | 100% :white_check_mark: |
-| 04 || *To be continued :)* ||
+| 04 | Home App | iOT simulator app for controlling devices in home | 100% :white_check_mark: |
+| 05 || *To be continued :)* ||
 
 ## Project 1: Travel Article App UI	View Snack	✅
 
@@ -110,6 +112,45 @@
     "react-native-reanimated": "^1.8.0",
     "react-native-safe-area-context": "^0.7.3",
     "react-native-screens": "^2.4.0",
+    "react-native-vector-icons": "^6.6.0"
+
+### Issue & Resolve: Check it [here](https://github.com/tomhagen/dribble2ReactNative/issues)
+
+
+<hr/>
+</br>
+
+## Project 4: Home App	✅
+
+![Screenshot](homeApp.gif)
+
+### Design sketch link [here](https://camo.githubusercontent.com/d8057ab9716ab6c32fdc98fd21642b56a498194c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3936383335342f73637265656e73686f74732f343538353234332f6174746163686d656e74732f313033363637392f736d6172745f686f6d655f6170705f75695f6174746163686d656e742e706e67)
+
+### Demo design:
+![Screenshot](homeAppDesign.png)
+
+### UI View:  2
+
+### Coding time: 8 hours.
+### Description:
+- React Native Navigation 
+- React Native SVG Chart
+- React Native vector icon
+- Using PanResponder for marking PanSlider
+- Special: Idea for marking Block component ( handmade ) instead of View
+
+### Dependencies: 
+     "@react-native-community/masked-view": "^0.1.9",
+    "@react-navigation/native": "^5.1.5",
+    "@react-navigation/stack": "^5.2.10",
+    "react": "16.11.0",
+    "react-native": "0.62.2",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-reanimated": "^1.8.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.4.0",
+    "react-native-svg": "^12.1.0",
+    "react-native-svg-charts": "^5.3.0",
     "react-native-vector-icons": "^6.6.0"
 
 ### Issue & Resolve: Check it [here](https://github.com/tomhagen/dribble2ReactNative/issues)
