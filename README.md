@@ -1,5 +1,5 @@
 ##### Especially thanks to [React-UI-Kit](https://www.youtube.com/channel/UCfREdW8U8p9AHDZwau3lapw/about) Channel !
-# ReactNative Project 2020
+# ReactNative Project 2020 from 365Design & Dribble
 
 **I'm transforming Dribbble designs to React / React-Native code. Happy Coding :)**
 <hr/>
@@ -8,11 +8,12 @@
 | Project | Name | Description | Status | 
 | ------ | ------ | :------: | :------: | 
 | 01 | Plant App | Plant app with 6 Ui view ( login, setting, product ... ) | 100% :white_check_mark: |
-| 02 | Parking App | Car parking finder app with price calculator | 90% :hammer_and_wrench: |
-| 03 | VPN App | Vitural Private Network app with select country | 100% :white_check_mark: |
-| 04 | Home App | iOT simulator app for controlling devices in home | 100% :white_check_mark: |
-| 05 | Travel App | Travel article news with main & details UI view | 100% :white_check_mark: |
-| 06 || *To be continued :)* ||
+| 02 | Camping App | Camping Spot Searching with Redux intergrate| 100% :white_check_mark: |
+| 03 | Parking App | Car parking finder app with price calculator | 90% :hammer_and_wrench: |
+| 04 | VPN App | Vitural Private Network app with select country | 100% :white_check_mark: |
+| 05 | Home App | iOT simulator app for controlling devices in home | 100% :white_check_mark: |
+| 06 | Travel App | Travel article news with main & details UI view | 100% :white_check_mark: |
+| 07 || *To be continued :)* ||
 
 ## Project 1: Plant App with login and setting	✅
 
@@ -51,8 +52,45 @@
 <hr/>
 </br>
 
+## Project 2: Camping App Searching with Redux	✅
 
-## Project 2: Car Parking Finder App	✅
+![Screenshot](campingApp.gif)
+
+### Design sketch link [here](https://dribbble.com/shots/5765449-Camping-Spots-Finder-App-Day-364-365-Project365)
+
+### Demo design:
+![Screenshot](campingAppDesign.png)
+
+### UI View:  2
+
+### Coding time: 9hours.
+
+### Description:
+1. Custom marker with Map View
+2. Using redux to change Setting
+
+### Dependencies: 
+    "@react-native-community/masked-view": "^0.1.9",
+    "@react-navigation/native": "^5.1.6",
+    "@react-navigation/stack": "^5.2.11",
+    "react": "16.11.0",
+    "react-native": "0.62.2",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-maps": "^0.27.1",
+    "react-native-reanimated": "^1.8.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.5.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+
+### Issue & Resolve: Check it [here](https://github.com/tomhagen/dribble2ReactNative/issues)
+
+<hr/>
+</br>
+
+## Project : Car Parking Finder App	✅
 
 ![Screenshot](parkingApp.png)
 
@@ -87,7 +125,7 @@
 <hr/>
 </br>
 
-## Project 3: VPN App	✅
+## Project 4: VPN App	✅
 
 ![Screenshot](vpnApp.gif)
 
@@ -125,7 +163,7 @@
 <hr/>
 </br>
 
-## Project 4: Home App	✅
+## Project 5: Home App	✅
 
 ![Screenshot](homeApp.gif)
 
@@ -164,7 +202,7 @@
 <hr/>
 </br>
 
-## Project 5: Travel Article App UI	View Snack	✅
+## Project 6: Travel Article App UI	View Snack	✅
 
 ![Screenshot](travelApp.png)
 
